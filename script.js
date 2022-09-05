@@ -1,5 +1,4 @@
 const animatedTexts = document.querySelectorAll('.animated-text');
-var codeVar = "ya3rmp5hxyp101";
 
 function siteView(){
   localStorage.setItem("view", parseInt(localStorage.getItem("view")) + 1)
